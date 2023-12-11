@@ -1,0 +1,5 @@
+userName = Vlad
+password = 1111
+root = true
+log = false
+autotest = false
